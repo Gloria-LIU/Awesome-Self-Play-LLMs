@@ -1,7 +1,10 @@
 # Awesome-Self-Play-LLMs
 A collection of AWESOME things about Finetuning LLMs with Self-Play Mechanisms.
 
-Fine-tuning Large Language Models (LLMs) for downstream tasks typically requires vast amounts of human-annotated data. However, self-training and self-improvement methods, which could reduce reliance on additional human annotations beyond the fine-tuning dataset, remain relatively underexplored. This repository addresses that gap by curating research papers that investigate how self-play techniques can enhance LLM reasoning and alignment.
+Fine-tuning LLMs for downstream tasks typically requires vast human-annotated data. A less explored alternative is self-training/self-improvement of LLMs, which eliminates the need for additional annotations beyond the fine-tuning dataset. This repository curates research on self-play techniques to enhance LLM reasoning and alignment.
+
+
+
 
 ## Related Works
 - (*Arxiv 2024.11*) Self-Evolved Reward Learning for LLMs [[paper](https://arxiv.org/abs/2411.00418)]
